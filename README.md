@@ -1,14 +1,9 @@
 > Status: Finished ✔️
 
-### I'm taking a web developer course and I made a basic website using HTML.
+# SITE USING HTML BASICS COMMANDS💻
 
-## Technologies Used:
+## 📕ABOUT
+I am taking a **Web Development Course** on Udemy, and in the initial modules, I learned the basics of HTML, and I decided to undertake projects using the knowledge I am acquiring as I progress through the course!
 
-<table>
-  <tr>
-    <td>HTML</td>
-  </tr>
-  <tr>
-    <td>5</td>
-  </tr>
-</table>
+## ⚒️ TOOLS
+- HTML 5
